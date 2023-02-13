@@ -14,4 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu0207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Minsu0207&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minsu0207&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Minsu0207&show_icons=true">
